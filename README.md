@@ -29,9 +29,7 @@ O app usa o `CallScreeningService` do Android. Quando uma ligação chega, o sis
 
 ## Capturas de tela
 
-<!-- Coloque aqui as capturas, por exemplo:
-<img src="docs/img/inicio.png" width="240"> <img src="docs/img/controles.png" width="240">
--->
+<img src="docs/img/1000502842.jpg" width="240"> <img src="docs/img/1000502844.jpg" width="240"> <img src="docs/img/1000502846.jpg" width="240">
 
 ## Código-fonte
 
